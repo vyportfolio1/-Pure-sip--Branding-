@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    color: #272727;
+}
+
+
+h1{
+    font-size: 25px; 
+    font-family: "Creepster", system-ui;
+    font-weight: bold;
+    color: #FF2727;
+}
+
+.pop{
+    font-family: "Poppins", sans-serif;
+}
+
+.creep{
+    font-family: "Creepster", system-ui;
+}
+
+.rd{
+    color: #8E221E;
+}
